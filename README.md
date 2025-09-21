@@ -1,5 +1,5 @@
 # Reto #01 de POO
-Entrega del primer reto planteado por Felipe Gonzales Roldan para programacion orientada objetos en la universidad nacional de colombia
+Entrega del primer reto planteado por Felipe Gonzales Roldan para programacion orientada objetos en la Universidad Nacional de Colombia
 ## 1.1
 Se le pide al usuario que ingrese 2 valores numericos y se plantea una funcion con los 2 valores ingresados como variables que ejecuta la formula de la operacion que el usuario pide que se realice y se plantea un if - elif - else que hace que si no se ingresa un simbolo de operacion valido imprima un mensaje que diga "operacion invalida"
 ```python
