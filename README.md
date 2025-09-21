@@ -2,6 +2,7 @@
 Entrega del primer reto planteado por Felipe Gonzales Roldan para programacion orientada objetos en la universidad nacional de colombia
 ## 1.1
 Se le pide al usuario que ingrese 2 valores numericos y se plantea una funcion con los 2 valores ingresados como variables que ejecuta la formula de la operacion que el usuario pide que se realice y se plantea un if - elif - else que hace que si no se ingresa un simbolo de operacion valido imprima un mensaje que diga "operacion invalida"
+```python
 def suma(val1, val2):
     return val1 + val2
 
@@ -45,6 +46,7 @@ elif operacion == "/":
     print(division(val1, val2))
 else:
     print("Operación inválida.")
+```
 ## 1.2
 Se define la funcion palindromo y la funcion comprobacion, utilizando la variable palabra se plantea que "palabra_invertida" utiliza reversed para invertir la cadena por caracteres separados y join para unir estos valores en un string completo, despues de aplicado esto en la funcion comprobacion se plantea un if que comprueba si el resultado de palabra_invertida es igual a la variable palabra y si es asi imprime un mensaje consecuente a esto, igualmente si el resultado no es igual imprime un mensaje acorde
 ## 1.3
