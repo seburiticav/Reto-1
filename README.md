@@ -107,7 +107,7 @@ def primos():
 primos()
 ```
 ## 1.4
-se crea la funcion SumaCons que almacena los valores ingresados en una lista, y usando .sort los organiza de menor a mayor, despues de esto, usando slicing suma los 2 ultimos valores de la lista (que seran los valores mas altos, por tanto la suma posible mas alta)
+se crea la funcion suma_consecutiva que almacena los valores ingresados en una lista, y usando .sort los organiza de menor a mayor, despues de esto, usando slicing suma los 2 ultimos valores de la lista (que seran los valores mas altos, por tanto la suma posible mas alta)
 ```python
 def suma_consecutiva():
     lista_numero = []
